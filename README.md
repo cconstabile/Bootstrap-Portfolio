@@ -1,1 +1,2 @@
-# Basic-Portfolio
+# Responsive-Portfolio
+Homework 2 part 1
